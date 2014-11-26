@@ -31,7 +31,7 @@ Requires
 ------------
 * Ansible (tested on 1.6)
   - http://docs.ansible.com/intro_installation.html
-* Ubuntu (tested on 12.04 LTS)
+* Ubuntu (tested on 12.04 LTS, 14.04.1 LTS)
 * Vagrant (*optional*, tested on 1.5.1)
   - https://docs.vagrantup.com/v2/getting-started/index.html
 
