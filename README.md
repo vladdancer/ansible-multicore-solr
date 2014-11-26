@@ -29,7 +29,7 @@ Provides
 
 Requires
 ------------
-* Ansible (tested on 1.6)
+* Ansible (tested on 1.6, 1.7.2)
   - http://docs.ansible.com/intro_installation.html
 * Ubuntu (tested on 12.04 LTS, 14.04.1 LTS)
 * Vagrant (*optional*, tested on 1.5.1)
